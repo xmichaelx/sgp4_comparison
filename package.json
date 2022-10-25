@@ -1,0 +1,22 @@
+{
+  "name": "sgp4_comparison",
+  "version": "1.0.0",
+  "description": "Comparison of SGP4 implementations - i suspect i have bug somewhere in orekit code and need help",
+  "main": "teme_table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmichaelx/sgp4_comparison.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmichaelx/sgp4_comparison/issues"
+  },
+  "homepage": "https://github.com/xmichaelx/sgp4_comparison#readme",
+  "dependencies": {
+    "satellite.js": "^4.1.4"
+  }
+}
